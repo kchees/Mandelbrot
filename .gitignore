@@ -1,0 +1,8 @@
+**/bin
+**/obj
+**/.vs
+**/Debug
+**/Release
+**/pspbrwse.jbf
+
+
